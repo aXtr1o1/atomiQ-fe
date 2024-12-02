@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <div className="main">
         <div className="nav">
-            <p>AtomiQ</p>
+            <p id='title'>AtomiQ</p>
             <img src={assets.user_icon} alt="" srcset="" />
         </div>
         <div className="main-container">

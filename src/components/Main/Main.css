@@ -5,6 +5,12 @@
     position: relative;
 }
 
+.main #title{
+    font-size: 3vh;
+    color: #585858;
+    padding: 20px;
+    font-weight: bolder;
+}
 .main .nav{
     display: flex;
     justify-content: space-between;
