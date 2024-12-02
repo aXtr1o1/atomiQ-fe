@@ -33,7 +33,7 @@
 }
 
 .main .greet span{
-    background: -webkit-linear-gradient(45deg, #f3ec78, #af4261);
+    background: -webkit-linear-gradient(45deg, #063d06, #426caf);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
